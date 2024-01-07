@@ -10,7 +10,7 @@ The funding outcome model aims to predict if a potential candidate for funding i
 
 The model uses a wide variety of information on the candidate from past data which includes application type, affiliation with other companies, government organization classification, purpose of funding, organization type, current status based on activity, current income, the presence of special considerations, the requested funds, and outcome after receiving funds (successful or unsuccessful).
 
-The only information irrelevant to the model are any identification markers of the organization which include EIN and Name.
+The only information irrelevant to the model are any identification markers of the organization which include EIN and Name. These should be independent of the outcome after receiving funds.
 
 ## Compiling, Training, and Evaluating the Model
 
